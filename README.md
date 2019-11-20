@@ -22,9 +22,9 @@ This is a course project, so data and analysis may not be so apliable to really 
 
 ## Steps:
 1. Clean Data. 
-  - Missing Value. There is no missing value in the raw dataset. But if there is,  I have millions of ways to solve.
-  - Statistics analysis for each feature.
-  - Strp String feature.
+    - Missing Value. There is no missing value in the raw dataset. But if there is,  I have millions of ways to solve.
+    - Statistics analysis for each feature.
+    - Strp String feature.
   - One hot encoding
 2. Feature Engineering
   - One Hot Encoding
