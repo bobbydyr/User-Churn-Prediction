@@ -4,6 +4,8 @@
 
 Link -> https://github.com/bobbydyr/userchurn/blob/master/user_churn_prediction.ipynb
 
+![](cv_pic.png)
+![](threshold.png)
 ## Intro:
 This is a course project, so data and analysis may not be so applicable to real life, but methodology and direction should be the ok. 
 
