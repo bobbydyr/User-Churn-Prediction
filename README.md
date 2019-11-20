@@ -2,7 +2,7 @@
 
 - 11 common Models, Ensemble Learning, Learning Curve, Confusion Matrix, Threshhold determination, feature importance
 
-Link ->
+Link -> https://github.com/bobbydyr/userchurn/blob/master/user_churn_prediction.ipynb
 
 ## Intro:
 This is a course project, so data and analysis may not be so apliable to really life, but methodology and direction should be the ok. 
