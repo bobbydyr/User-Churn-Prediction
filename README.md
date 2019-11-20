@@ -25,15 +25,15 @@ This is a course project, so data and analysis may not be so apliable to really 
     - Missing Value. There is no missing value in the raw dataset. But if there is,  I have millions of ways to solve.
     - Statistics analysis for each feature.
     - Strp String feature.
-  - One hot encoding
+    - One hot encoding
 2. Feature Engineering
-  - One Hot Encoding
-  - Change Yes/No to boolean values.
-  - Standardization
+    - One Hot Encoding
+    - Change Yes/No to boolean values.
+    - Standardization
 3. Model Training and result evaluation
-  - Stratified K-fold cross validation for 11 models
-  - Picked 6 models to do hyperparameter tuning with grid search and build learning curve.
-  - Evaluated them with confusion matrix
-  - Build ensemble model of all 6 model combined. 
+    - Stratified K-fold cross validation for 11 models
+    - Picked 6 models to do hyperparameter tuning with grid search and build learning curve.
+    - Evaluated them with confusion matrix
+    - Build ensemble model of all 6 model combined. 
 4. Prediction And Precision Recall Trade Off
-  - Threshhold determination to minimize cost
+    - Threshhold determination to minimize cost
